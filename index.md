@@ -2,28 +2,21 @@
 
 I'm Trena, a CS Grad Student at Northeastern University.
 
+
 ## Education
 
 #### Northeastern University, Boston 
-<p align="left">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Northeastern%20Logo.png">
- 
-</p>
+
 
 #### VESIT
-<div align="left">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Ves%20Logo.png"> 
-</div>
+
 
 #### VESP
-<p align="left">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Ves%20Logo.png">
-</p>
+
 
 #### QMS
-<p align="left">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/QMS%20Logo.png">
-</p>
+
+
 
 ## Skills
 
@@ -62,9 +55,17 @@ I'm Trena, a CS Grad Student at Northeastern University.
   - Scikit-learn
   - Tableau  
 
+
 ## Work Experience
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+#### Software Engineering Intern - Eikon Therapeutics, San Francisco, USA                                                                 May 2020 – Jun 2020, Aug 2020 - Present
+•	Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
+•	Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
+
+#### Software Engineering Intern – Aladdin Product Group, Blackrock, San Francisco, USA                                                                       Jul 2020 – Aug 2020
+•	Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
+•	Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
+
 
 ## Publications
 
