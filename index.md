@@ -73,11 +73,11 @@ _Jul 2020 – Aug 2020_
 ```
 CookBook                                                                     Feb 2020 – Apr 2020
 
-&gt;   Developed a React based web application where users can log in to the application 
+>   Developed a React based web application where users can log in to the application 
 to create, retrieve, update and delete recipes along with comment and user tagging
 features.
 
-&gt;   Built Rest API using Node.js, Express.js and MongoDB and implemented a search 
+>   Built Rest API using Node.js, Express.js and MongoDB and implemented a search 
 feature using RapidAPI.
 
 ```
