@@ -1,5 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Trena Dhingra
 description: This is Trena's github.io
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+show_downloads: "true"
+
