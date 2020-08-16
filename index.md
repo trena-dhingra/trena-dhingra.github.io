@@ -7,6 +7,9 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 #### Northeastern University - _Boston, US_ 
 
+*   Candidate for Master of Science in Computer Science at _Khoury College of Computer Sciences._                                                             Sept 2019 - Present 
+
+Courses: _Programming Design Paradigm, Algorithms, Database Management Systems, Artificial Intelligence._                                                            GPA: 3.5/4.0 
 
 #### Vivekanand Education Society's Institute of Technology - _Mumbai, India_
 
@@ -39,7 +42,7 @@ I'm Trena, a CS Grad Student at Northeastern University.
 •	Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
 
 #### Blackrock, San Francisco, USA 
-#### _Software Engineering Intern – Aladdin Product Group_                                                                                                   [Jul 2020 – Aug 2020]
+#### Software Engineering Intern – Aladdin Product Group  _[Jul 2020 – Aug 2020]_
 •	Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
 •	Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
 
