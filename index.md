@@ -68,7 +68,8 @@ Indian Certificate of Secondary Education                                   June
 
 ## Projects
 
-CookBook – Northeastern University, Boston                                                                                                  _Feb 2020 – Apr 2020_
+
+#### **CookBook – Northeastern University, Boston**                                                                                               
 *   Developed a React based web application where users can log in to the application to create, retrieve, update and delete
 recipes along with comment and user tagging features.
 *   Built Rest API using Node.js, Express.js and MongoDB and implemented a search feature using RapidAPI.
