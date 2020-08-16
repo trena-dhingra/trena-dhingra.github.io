@@ -123,8 +123,6 @@ Societino                                                                       
 JavaMailer API, and MSG91 which allows members of an apartment complex to 
 communicate efficiently and handle any crisis that occurs.
 
-
-
 ```
 
 ```
@@ -133,7 +131,6 @@ Attendance Application                                                       Dec
 >   Developed an Android Application using Android Studio and SQLite that allows 
 teachers to take attendance, which is stored in the local database and the list of absent
 students is generated. Teachers can edit the data of the classes, lectures, and labs.
-
 
 ```
 
