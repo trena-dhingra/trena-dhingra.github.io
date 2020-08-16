@@ -21,12 +21,13 @@ I'm Trena, a CS Grad Student at Northeastern University.
 ## Skills
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | head two          | 
+|:-------------|:------------------|
+| Languages    | Java, Python, C++, C |
+| Databases   |MySQL, Firebase, SQLite, Oracle 11g, MongoDB   |
+| Web and Mobile Technologies           | HTML, CSS, PHP, Bootstrap, JavaScript, React.js, Spring Boot, Hibernate, Node.js, Android     |
+| Cloud and Version Control | Google Cloud Platform, Amazon Web Services (AWS), Git |
+|Data Science|Keras, Scikit-learn, Tableau|
 
 - **Languages**
   - Java
