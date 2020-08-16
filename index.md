@@ -6,7 +6,7 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 #### Northeastern University, Boston 
 <p align="left">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Northeastern%20Logo.png">
+<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Northeastern%20Logo.png" width="200"> <p>MS CS @ NEU </p>
  
 </p>
 
