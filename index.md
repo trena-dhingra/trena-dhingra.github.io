@@ -64,8 +64,8 @@ Indian Certificate of Secondary Education                                   June
 #### Blackrock, San Francisco, USA 
 #### Software Engineering Intern – Aladdin Product Group  
 _[Jul 2020 – Aug 2020]_
-•	Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
-•	Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
+*   Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
+*   Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
 
 ## Projects
 
@@ -79,15 +79,14 @@ recipes along with comment and user tagging features.
 *   Implemented and analyzed various classification algorithms for their performance based on different performance metrics like accuracy, area under ROC etc. 
 
 #### **An Image Processing Application - Northeastern University, Boston**
-_Nov 2019 - Dec 2019_
 *   Created an MVC in Java that works on images and performs various operations such as blur, sharpen, sepia, grayscale, dither, and mosaic and a program around them complete with “image scripting” and an interactive graphical user interface.
 
-#### **Dyscalculia Detection Using Machine Learning - University of Mumbai, Mumbai**                                      Aug 2018 – Apr 2019
+#### **Dyscalculia Detection Using Machine Learning - University of Mumbai, Mumbai**                                      
 *   Developed an AI based system to assist doctors at the Department of Psychiatry, T.N.M.C and B.Y.L. Nair Ch. Hospital in detection of dyscalculia, a learning disability.
 *   Prepared a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy.
 *   Presented and published a paper at the 8th International Conference on Pattern Recognition and Machine Intelligence in December 2019 for LNCS series by Springer (https://doi.org/10.1007/978-3-030-34869-4_13).
 
-#### **Societino - University of Mumbai, Mumbai**                                                                                                           Aug 2017- Feb 2018
+#### **Societino - University of Mumbai, Mumbai**                                                                                                           
 *   Developed an Android Application using Android Studio, Firebase, Google Maps API, JavaMailer API, and MSG91 which allows members of an apartment complex to communicate efficiently and handle any crisis that occurs.
 
 
