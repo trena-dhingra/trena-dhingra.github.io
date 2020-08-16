@@ -27,10 +27,40 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 ## Skills
 
-- level 1 item
-  - level 2 item
-  - level 2 item
+- **Languages**
+  - Java
+  - Python
+  - C++
+  - C
+  
+- **Databases**
+  - MySQL
+  - Firebase
+  - SQLite
+  - Oracle 11g
+  - MongoDB
+  
+- **Web and Mobile Technologies**
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - Bootstrap
+  - React.js
+  - Spring Boot
+  - Hibernate
+  - Node.js
+  - Android
 
+- **Cloud and Version Control**
+  - Google Cloud Platform
+  - Amazon Web Services(AWS
+  - Git
+  
+- **Data Science**
+  - Keras
+  - Scikit-learn
+  - Tableau  
 
 ## Work Experience
 
@@ -39,4 +69,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Paper titled “Dyscalculia Detection Using Machine Learning” accepted at 8th International Conference on Pattern Recognition and
+Machine Intelligence. It has been published by Springer in the Lecture Notes in Computer Science (LNCS) series -
+https://doi.org/10.1007/978-3-030-34869-4_13
