@@ -1,6 +1,3 @@
-hiiiii
-
-## About
 
 I'm Trena, a CS Grad Student at Northeastern University.
 
