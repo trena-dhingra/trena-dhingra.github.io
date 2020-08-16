@@ -66,6 +66,12 @@ Indian Certificate of Secondary Education                                   June
 •	Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
 •	Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
 
+## Projects
+
+CookBook – Northeastern University, Boston                                                                                                  _Feb 2020 – Apr 2020_
+*   Developed a React based web application where users can log in to the application to create, retrieve, update and delete
+recipes along with comment and user tagging features.
+*   Built Rest API using Node.js, Express.js and MongoDB and implemented a search feature using RapidAPI.
 
 ## Publications
 
