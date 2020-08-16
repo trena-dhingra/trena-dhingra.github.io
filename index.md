@@ -71,7 +71,7 @@ _Jul 2020 – Aug 2020_
 ## Projects
 
 ```
-CookBook                                                                     Feb 2020 – Apr 2020
+CookBook                                                                                       Feb 2020 – Apr 2020
 
 >   Developed a React based web application where users can log in to the application 
 to create, retrieve, update and delete recipes along with comment and user tagging
@@ -98,6 +98,7 @@ as blur, sharpen, sepia, grayscale, dither, and mosaic and a program around them
 complete with “image scripting” and an interactive graphical user interface.
 
 ```
+
 ```
 Dyscalculia Detection Using Machine Learning                                Aug 2018 – Apr 2019
 
