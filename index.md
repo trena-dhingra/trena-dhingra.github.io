@@ -27,11 +27,10 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 ## Skills
 
-```markdown
 - level 1 item
   - level 2 item
   - level 2 item
-```
+
 
 ## Work Experience
 
