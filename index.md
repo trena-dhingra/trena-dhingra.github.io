@@ -5,8 +5,9 @@ I'm Trena, a CS Grad Student at Northeastern University.
 ## Education
 
 #### Northeastern University, Boston 
-<p align="center">
+<p align="left">
 <img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Northeastern%20Logo.png">
+ MS CS @ NEU
 </p>
 
 #### VESIT
