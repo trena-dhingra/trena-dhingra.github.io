@@ -58,11 +58,13 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 ## Work Experience
 
-#### Software Engineering Intern - Eikon Therapeutics, San Francisco, USA                                                                 May 2020 – Jun 2020, Aug 2020 - Present
+#### Eikon Therapeutics, San Francisco, USA                                                                 
+##### Software Engineering Intern [May 2020 – Jun 2020, Aug 2020 - Present]
 •	Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
 •	Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
 
-#### Software Engineering Intern – Aladdin Product Group, Blackrock, San Francisco, USA                                                                       Jul 2020 – Aug 2020
+#### Blackrock, San Francisco, USA 
+##### Software Engineering Intern – Aladdin Product Group [Jul 2020 – Aug 2020]
 •	Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
 •	Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
 
@@ -71,4 +73,4 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 Paper titled “Dyscalculia Detection Using Machine Learning” accepted at 8th International Conference on Pattern Recognition and
 Machine Intelligence. It has been published by Springer in the Lecture Notes in Computer Science (LNCS) series -
-[https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_13](https://link.springer.com/chapter/10.1007%2F978-3-030-34869-4_13)
+[here](https://doi.org/10.1007/978-3-030-34869-4_13)
