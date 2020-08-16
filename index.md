@@ -20,7 +20,7 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 ## Skills
 |        |         |
-|-------------|------------------|
+|:-------------|:------------------|
 |Languages|`Java, Python ,C ,C++`|
 |Databases|`MySQL, Firebase, SQLite, Oracle 11g, MongoDB`            |          
 |Web and Mobile Technologies|`HTML, CSS, PHP, Bootstrap, JavaScript, React.js, Spring Boot, Hibernate, Node.js, Android`|
