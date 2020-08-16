@@ -8,7 +8,7 @@ I'm Trena, a CS Grad Student at Northeastern University.
 #### **Northeastern University** - _Boston, US_ 
 
 ```
-Master of Science in Computer Science                                Sept 2019 - Present      
+Master of Science in Computer Science                                          Sept 2019 - Present 
 >   GPA: 3.5/4.0
 
 
