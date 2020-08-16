@@ -57,37 +57,56 @@ Indian Certificate of Secondary Education                                   June
 ## Work Experience
 
 #### Eikon Therapeutics, San Francisco, USA                                                                 
-#### Software Engineering Intern                                                                                     _[May 2020 – Jun 2020, Aug 2020 - Present]_
+#### Software Engineering Intern                                                                                     
+_May 2020 – Jun 2020, Aug 2020 - Present_
 •	Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
 •	Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
 
 #### Blackrock, San Francisco, USA 
 #### Software Engineering Intern – Aladdin Product Group  
-_[Jul 2020 – Aug 2020]_
+_Jul 2020 – Aug 2020_
 *   Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
 *   Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
 
 ## Projects
 
-
-#### **CookBook – Northeastern University, Boston**                                                                                               
+```
+#### **CookBook – Northeastern University, Boston**  
+_Feb 2020 – Apr 2020_
 *   Developed a React based web application where users can log in to the application to create, retrieve, update and delete
 recipes along with comment and user tagging features.
 *   Built Rest API using Node.js, Express.js and MongoDB and implemented a search feature using RapidAPI.
-
-#### **Prediction of user ratings for Airbnb Rentals - Northeastern University, Boston**                                     
+```
+#### **Prediction of user ratings for Airbnb Rentals - Northeastern University, Boston**  
+_Mar 2020 - Apr 2020_
+```
 *   Implemented and analyzed various classification algorithms for their performance based on different performance metrics like accuracy, area under ROC etc. 
+```
 
 #### **An Image Processing Application - Northeastern University, Boston**
+_Nov 2019 - Dec 2019_
 *   Created an MVC in Java that works on images and performs various operations such as blur, sharpen, sepia, grayscale, dither, and mosaic and a program around them complete with “image scripting” and an interactive graphical user interface.
 
-#### **Dyscalculia Detection Using Machine Learning - University of Mumbai, Mumbai**                                      
+#### **Dyscalculia Detection Using Machine Learning - University of Mumbai, Mumbai** 
+_Aug 2018 – Apr 2019_
 *   Developed an AI based system to assist doctors at the Department of Psychiatry, T.N.M.C and B.Y.L. Nair Ch. Hospital in detection of dyscalculia, a learning disability.
 *   Prepared a dataset and generated decision tree using Random Forest Algorithm to achieve 99.87% accuracy.
 *   Presented and published a paper at the 8th International Conference on Pattern Recognition and Machine Intelligence in December 2019 for LNCS series by Springer (https://doi.org/10.1007/978-3-030-34869-4_13).
 
-#### **Societino - University of Mumbai, Mumbai**                                                                                                           
+#### A Survey Correlating Mental Disability With Socio-Economic Factors - University of Mumbai, Mumbai
+_October 2018_
+*   Analyzed various factors related to a child’s mental health using Python and Scikitlearn from the available dataset to compare the Random Forest Algorithm and XGBoost for building a decision tree to perform classification.
+
+#### **Societino - University of Mumbai, Mumbai** 
+_Aug 2017- Feb 2018_
 *   Developed an Android Application using Android Studio, Firebase, Google Maps API, JavaMailer API, and MSG91 which allows members of an apartment complex to communicate efficiently and handle any crisis that occurs.
+
+#### Attendance Application         
+_December 2015- March 2016_
+*   Developed an Android Application using Android Studio and SQLite that allows teachers to take attendance, which is stored in the local database and the list of absent students is generated. Teachers can edit the data of the classes, lectures, and labs.
+
+
+
 
 
 ## Publications
