@@ -1,9 +1,8 @@
 
-## Welcome to GitHub Pages
+## About
+[Click me](http://www.google.com){: .btn}
 
-You can use the [editor on GitHub](https://github.com/trena-dhingra/trena-dhingra.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Trena, a CS Grad Student at Northeastern University.
 
 ### Markdown
 
