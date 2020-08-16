@@ -73,10 +73,11 @@ _Jul 2020 – Aug 2020_
 ```
 CookBook                                                                     Feb 2020 – Apr 2020
 
->   Developed a React based web application where users can log in to the application 
-to create, retrieve, update and delete
-recipes along with comment and user tagging features.
->   Built Rest API using Node.js, Express.js and MongoDB and implemented a search 
+&gt;   Developed a React based web application where users can log in to the application 
+to create, retrieve, update and delete recipes along with comment and user tagging
+features.
+
+&gt;   Built Rest API using Node.js, Express.js and MongoDB and implemented a search 
 feature using RapidAPI.
 
 ```
@@ -102,6 +103,7 @@ Dyscalculia Detection Using Machine Learning                                Aug 
 
 >   Developed an AI based system to assist doctors at the Department of Psychiatry,
 T.N.M.C and B.Y.L. Nair Ch. Hospital in detection of dyscalculia, a learning disability.
+
 >   Prepared a dataset and generated decision tree using Random Forest Algorithm to
 achieve 99.87% accuracy.
 
