@@ -144,3 +144,6 @@ students is generated. Teachers can edit the data of the classes, lectures, and 
 Paper titled “Dyscalculia Detection Using Machine Learning” accepted at 8th International Conference on Pattern Recognition and
 Machine Intelligence. It has been published by Springer in the Lecture Notes in Computer Science (LNCS) series -
 [here](https://doi.org/10.1007/978-3-030-34869-4_13)
+
+## Activities and Interests
+
