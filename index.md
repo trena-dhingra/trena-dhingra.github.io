@@ -59,8 +59,8 @@ Indian Certificate of Secondary Education                                   June
 #### Eikon Therapeutics, San Francisco, USA                                                                 
 #### Software Engineering Intern                                                                                     
 _May 2020 – Jun 2020, Aug 2020 - Present_
-•	Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
-•	Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
+*   Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
+*   Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
 
 #### Blackrock, San Francisco, USA 
 #### Software Engineering Intern – Aladdin Product Group  
@@ -71,11 +71,14 @@ _Jul 2020 – Aug 2020_
 ## Projects
 
 ```
-#### **CookBook – Northeastern University, Boston**  
-_Feb 2020 – Apr 2020_
-*   Developed a React based web application where users can log in to the application to create, retrieve, update and delete
+CookBook – Northeastern University, Boston                                   Feb 2020 – Apr 2020
+
+>   Developed a React based web application where users can log in to the application 
+to create, retrieve, update and delete
 recipes along with comment and user tagging features.
-*   Built Rest API using Node.js, Express.js and MongoDB and implemented a search feature using RapidAPI.
+>   Built Rest API using Node.js, Express.js and MongoDB and implemented a search 
+feature using RapidAPI.
+
 ```
 #### **Prediction of user ratings for Airbnb Rentals - Northeastern University, Boston**  
 _Mar 2020 - Apr 2020_
