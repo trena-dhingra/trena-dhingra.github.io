@@ -54,7 +54,7 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 - **Cloud and Version Control**
   - Google Cloud Platform
-  - Amazon Web Services(AWS
+  - Amazon Web Services(AWS)
   - Git
   
 - **Data Science**
