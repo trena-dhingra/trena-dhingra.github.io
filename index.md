@@ -7,15 +7,19 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 #### **Northeastern University** - _Boston, US_ 
 
-##### Candidate for Master of Science in Computer Science at _Khoury College of Computer Sciences._     
 ```
-*   Sept 2019 - Present 
+Candidate for Master of Science in Computer Science at _Khoury College of Computer Sciences._       Sept 2019 - Present 
 *   GPA: 3.5/4.0
 
-_**Courses:** Programming Design Paradigm, Algorithms, Database Management Systems, Artificial Intelligence._                                                             
+Courses: Programming Design Paradigm, Algorithms, Database Management Systems,
+         Artificial Intelligence.                                                             
 ```
 #### **Vivekanand Education Society's Institute of Technology** - _Mumbai, India_
+##### Bachelor of Engineering in Computer Engineering
+*   July 2016 - June 2019
+*   GPA: 9.00/10.00
 
+_**Courses:** : Soft Computing, Software Engineering, Data Mining, Operating Systems, Web Technologies, Machine Learning._ 
 
 #### **Vivekanand Education Society's Polytechnic** - _Mumbai, India_
 
