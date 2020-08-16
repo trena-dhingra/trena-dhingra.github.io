@@ -21,8 +21,8 @@ Bachelor of Engineering in Computer Engineering                         July 201
 >   GPA: 9.00/10.00
 
 Courses: Soft Computing, Software Engineering, Data Mining, Operating Systems
-             , Web Technologies, Machine Learning, Data Structures, Object 
-             Oriented Programming.
+              , Web Technologies, Machine Learning, Data Structures, Object 
+              Oriented Programming.
                                                              
 ```
 
