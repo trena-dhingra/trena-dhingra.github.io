@@ -8,7 +8,7 @@ body{
 }
 
 nav ul a{
-  color:#3399cc
+  color:#000000
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -16,7 +16,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 pre{
-  background:#e0f0f0
+  background:#e0f0f0;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.09), inset 5px 5px 5px 5px rgba(255,255,255,0.5), inset 0 0 10px 10px rgba(255,255,255,0.4)  !important;
 }
 
 code {  
