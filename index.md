@@ -1,5 +1,7 @@
 
-### trying to understand the change
+
+Trena Dhingra
+## About
 
 I'm Trena, a CS Grad Student at Northeastern University.
 
