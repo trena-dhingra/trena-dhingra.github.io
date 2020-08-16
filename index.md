@@ -6,14 +6,14 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 #### Northeastern University, Boston 
 <p align="left">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Northeastern%20Logo.png" MS CS @ NEU>
+<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Northeastern%20Logo.png">
  
 </p>
 
 #### VESIT
-<p align="center">
-<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Ves%20Logo.png">
-</p>
+<div align="center">
+<img src="https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/Ves%20Logo.png"> MS CS @ NEU
+</div>
 
 #### VESP
 <p align="center">
