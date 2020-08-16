@@ -4,9 +4,6 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 ## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Skills
 
