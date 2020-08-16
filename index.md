@@ -12,22 +12,35 @@ Master of Science in Computer Science                                          S
 >   GPA: 3.5/4.0
 
 Courses: Programming Design Paradigm, Algorithms, Database Management Systems,
-         Artificial Intelligence.                                                             
+            Artificial Intelligence.                                                             
 ```
 #### **Vivekanand Education Society's Institute of Technology** - _Mumbai, India_
-##### Bachelor of Engineering in Computer Engineering
-*   July 2016 - June 2019
-*   GPA: 9.00/10.00
 
-_**Courses:** : Soft Computing, Software Engineering, Data Mining, Operating Systems, Web Technologies, Machine Learning._ 
+```
+Bachelor of Engineering in Computer Engineering                               July 2016 - June 2019 
+>   GPA: 9.00/10.00
+
+Courses: Soft Computing, Software Engineering, Data Mining, Operating Systems
+         , Web Technologies, Machine Learning, Data Structures, Object 
+         Oriented Programming.
+                                                             
+```
 
 #### **Vivekanand Education Society's Polytechnic** - _Mumbai, India_
 
+```
+Diploma in Computer Engineering                                               July 2013 - June 2016
+>   Aggregate Percentage - 87.19%
+                                                           
+```
 
 #### **Queen Mary School** - _Mumbai, India_
 
+```
+Indian Certificate of Secondary Education                                    June 2000 - March 2013
+>   Aggregate Percentage - 87.00%
 
-
+```
 
 ## Skills
 
