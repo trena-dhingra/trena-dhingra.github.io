@@ -168,4 +168,3 @@ Machine Intelligence. It has been published by Springer in the Lecture Notes in 
 > * Managed and coordinated several events as a part of the student council and used Photoshop to make posters showcasing
 > several technical and non-technical events.
 
-* * *
