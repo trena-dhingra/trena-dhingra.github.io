@@ -2,6 +2,7 @@
 
 I'm Trena, a CS Grad Student at Northeastern University.
 
+* * *
 
 ## Education
 
@@ -42,6 +43,8 @@ Indian Certificate of Secondary Education                                   June
 
 ```
 
+* * *
+
 ## Skills
 
 |     |   | 
@@ -52,7 +55,7 @@ Indian Certificate of Secondary Education                                   June
 | Cloud and Version Control | Google Cloud Platform, Amazon Web Services (AWS), Git |
 |Data Science|Keras, Scikit-learn, Tableau|
 
-
+* * *
 
 ## Work Experience
 
@@ -67,6 +70,8 @@ _May 2020 – Jun 2020, Aug 2020 - Present_
 _Jul 2020 – Aug 2020_
 *   Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
 *   Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
+
+* * *
 
 ## Projects
 
@@ -137,7 +142,7 @@ students is generated. Teachers can edit the data of the classes, lectures, and 
 
 ```
 
-
+* * *
 
 ## Publications
 
@@ -145,5 +150,9 @@ Paper titled “Dyscalculia Detection Using Machine Learning” accepted at 8th 
 Machine Intelligence. It has been published by Springer in the Lecture Notes in Computer Science (LNCS) series -
 [here](https://doi.org/10.1007/978-3-030-34869-4_13)
 
+* * *
+
 ## Activities and Interests
 
+
+* * *
