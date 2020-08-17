@@ -21,8 +21,8 @@ Courses: Programming Design Paradigm, Algorithms, Database Management Systems,
 Bachelor of Engineering in Computer Engineering                         July 2016 - June 2019 
 >   GPA: 9.00/10.00
 
-Courses: Soft Computing, Software Engineering, Data Mining, Operating Systems
-              , Web Technologies, Machine Learning, Data Structures, Object 
+Courses: Soft Computing, Software Engineering, Data Mining, Operating Systems,
+              Web Technologies, Machine Learning, Data Structures, Object 
               Oriented Programming.
                                                              
 ```
