@@ -169,7 +169,7 @@ Machine Intelligence. It has been published by Springer in the Lecture Notes in 
 > several technical and non-technical events.
 
 ## Contact
-* Email - <dhingra.tr@husky.neu.edu>
+* Email - <dhingra.tr@northeastern.edu>
 * GitHub - [https://github.com/trena-dhingra](https://github.com/trena-dhingra)
 * LinkedIn - [https://www.linkedin.com/in/trenadhingra/](https://www.linkedin.com/in/trenadhingra/)
 
