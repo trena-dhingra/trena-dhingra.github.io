@@ -62,8 +62,8 @@ Indian Certificate of Secondary Education                                   June
 #### Eikon Therapeutics, San Francisco, USA                                                                 
 #### Software Engineering Intern                                                                                     
 _May 2020 – Jun 2020, Aug 2020 - Present_
-*   Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
-*   Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
+> *   Explored GUI options and gathered requirements for representing data to non-engineering-team end-users.
+> *   Designed and implemented this python-based GUI using PySide2 for representing single molecule image data.
 
 #### Blackrock, San Francisco, USA 
 #### Software Engineering Intern – Aladdin Product Group  
@@ -156,7 +156,7 @@ Machine Intelligence. It has been published by Springer in the Lecture Notes in 
 
 > ## Blockquoted header
 >
-> This is blockquoted text.
+> * This is blockquoted text.
 >
 > This is a second paragraph within the blockquoted text.
 
