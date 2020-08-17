@@ -156,12 +156,16 @@ Machine Intelligence. It has been published by Springer in the Lecture Notes in 
 
 * * *
 
-## Activities and Interests
+## Activities
 
-> ## Blockquoted header
->
-> * This is blockquoted text.
->
-> This is a second paragraph within the blockquoted text.
+#### Grace Hopper Conference
+> _Sep 2020_
+> * Selected to represent Northeastern University and Khoury College of Computer Sciences at the 2020 Virtual Grace Hopper
+>Celebration of Women in Computing conference
+
+#### Junior Public Relations Officer, Computer Society of India
+> _Jul 2016 – Apr 2017_
+> * Managed and coordinated several events as a part of the student council and used Photoshop to make posters showcasing
+> several technical and non-technical events.
 
 * * *
