@@ -174,4 +174,5 @@ Machine Intelligence. It has been published by Springer in the Lecture Notes in 
 * Email - <dhingra.tr@northeastern.edu>
 * GitHub - [https://github.com/trena-dhingra](https://github.com/trena-dhingra)
 * LinkedIn - [https://www.linkedin.com/in/trenadhingra/](https://www.linkedin.com/in/trenadhingra/)
+* [Resume here](https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/Resume/TrenaDhingraResume.pdf)
 
