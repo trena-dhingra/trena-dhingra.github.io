@@ -46,7 +46,6 @@ Indian Certificate of Secondary Education                                   June
 * * *
 
 ## Skills
-
 |     |   | 
 |:-------------|:------------------|
 | Languages    | Java, Python, C++, C |
