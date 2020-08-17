@@ -10,6 +10,7 @@ I'm Trena, a CS Grad Student at Northeastern University.
 
 ```
 Master of Science in Computer Science                                          Sept 2019 - Present 
+
 >   GPA: 3.5/4.0
 
 Courses: Programming Design Paradigm, Algorithms, Database Management Systems,
@@ -19,6 +20,7 @@ Courses: Programming Design Paradigm, Algorithms, Database Management Systems,
 
 ```
 Bachelor of Engineering in Computer Engineering                         July 2016 - June 2019 
+
 >   GPA: 9.00/10.00
 
 Courses: Soft Computing, Software Engineering, Data Mining, Operating Systems,
