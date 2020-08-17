@@ -161,7 +161,7 @@ Machine Intelligence. It has been published by Springer in the Lecture Notes in 
 #### Grace Hopper Conference
 > _Sep 2020_
 > * Selected to represent Northeastern University and Khoury College of Computer Sciences at the 2020 Virtual Grace Hopper
->Celebration of Women in Computing conference
+>Celebration of Women in Computing conference.
 
 #### Junior Public Relations Officer, Computer Society of India
 > _Jul 2016 – Apr 2017_
