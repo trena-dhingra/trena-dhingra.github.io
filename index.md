@@ -31,6 +31,7 @@ Courses: Soft Computing, Software Engineering, Data Mining, Operating Systems,
 
 ```
 Diploma in Computer Engineering                                                  July 2013 - June 2016
+
 >   Aggregate Percentage - 87.19%
                                                            
 ```
@@ -39,6 +40,7 @@ Diploma in Computer Engineering                                                 
 
 ```
 Indian Certificate of Secondary Education                                   June 2000 - March 2013
+
 >   Aggregate Percentage - 87.00%
 
 ```
@@ -49,7 +51,7 @@ Indian Certificate of Secondary Education                                   June
 
 |     |   | 
 |:-------------|:------------------|
-| Languages    | Java, Python, C++, C and abc |
+| Languages    | Java, Python, C++, C |
 | Databases   |MySQL, Firebase, SQLite, Oracle 11g, MongoDB   |
 | Web and Mobile Technologies           | HTML, CSS, PHP, Bootstrap, JavaScript, React.js, Spring Boot, Hibernate, Node.js, Android     |
 | Cloud and Version Control | Google Cloud Platform, Amazon Web Services (AWS), Git |
