@@ -48,7 +48,7 @@ Indian Certificate of Secondary Education                                   June
 ## Skills
 |     |   | 
 |:-------------|:------------------|
-| Languages    | Java, Python, C++, C |
+| Languages    | Java, Python, C++, C and abc |
 | Databases   |MySQL, Firebase, SQLite, Oracle 11g, MongoDB   |
 | Web and Mobile Technologies           | HTML, CSS, PHP, Bootstrap, JavaScript, React.js, Spring Boot, Hibernate, Node.js, Android     |
 | Cloud and Version Control | Google Cloud Platform, Amazon Web Services (AWS), Git |
