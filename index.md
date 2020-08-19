@@ -1,9 +1,6 @@
 ## About
 
 I'm Trena, a Computer Science Graduate Student at Northeastern University.
-I have spent seven years studying Computer Science and during that time I was exposed to a wide spectrum of concepts.I have always been eager to learn and step out of my comfort zone and get new experiences.  Having worked in collaboration with the Department of Psychiatry at a hospital, I combined psychology with technology to conduct interdisciplinary research and help develop software that uses Machine Learning to determine whether a patient is suffering from Dyscalculia. An extension to this experience is my internship at Eikon Therapeutics, a biotechnology firm where we are developing a software that detects and tracks the path taken by cell particles. Another venture of mine, which is in a totally different domain is as a Software Engineering Intern at Blackrock, a financial technology firm. I am motivated to keep using my tech skills in various domains.
-
-Technology has crept up into every field that exists and as I find myself learning and working in these different fields to develop new software, I have realized that my interest is in leveraging technology in different fields. I wish to continue exploring new technologies while using my skills to make a positive impact on the world.
 
 * * *
 
