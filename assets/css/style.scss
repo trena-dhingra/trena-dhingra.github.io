@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body{
-  background:url(https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/bg1.jpg)
+  background:#fff
 }
 
 nav ul a{
@@ -39,6 +39,7 @@ code {
 
 section{
   box-shadow: 10px 10px 10px rgba(0,0,0,0.09), inset 5px 5px 5px 5px rgba(255,255,255,0.5), inset 0 0 10px 10px rgba(255,255,255,0.4)  !important;
+  background:url(https://github.com/trena-dhingra/trena-dhingra.github.io/raw/master/images/bg2.jpg)
 }
 
 thead{
