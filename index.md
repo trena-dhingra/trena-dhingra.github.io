@@ -2,6 +2,8 @@
 
 I'm Trena, a Computer Science Graduate Student at Northeastern University.
 
+I enjoy creating things that solve problems and leveraging technology in different fields. I wish to continue exploring new technologies while using my skills to make a positive impact on the world.
+
 * * *
 
 ## Education
