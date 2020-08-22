@@ -74,7 +74,7 @@ Indian Certificate of Secondary Education                                   June
 #### Blackrock, San Francisco, USA 
 > ##### Software Engineering Intern – Aladdin Product Group  
 > _Jul 2020 – Aug 2020_
-> *   Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays > > from billions of transactions.
+> *   Collaborated with customer support officers, traders, and engineers to redesign and build a support tool to optimize troubleshooting workflow which fetches and displays from billions of transactions.
 > *   Developed and deployed this tool as a web-based application for orders and transactions that occur during the trading process using Node.js, React.js and Splunk. 
 
 * * *
