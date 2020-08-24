@@ -1,6 +1,6 @@
 ## About
 
-I'm a CS Grad Student at Northeastern University. Currently I'm working as a Software Engineering Intern at Eikon Therapeutics. I have spent seven years studying Computer Science and during this time I was exposed to a wide spectrum of concepts.
+I'm a Computer Science Grad Student at Northeastern University. Currently I'm working as a Software Engineering Intern at Eikon Therapeutics. I have spent seven years studying Computer Science and during this time I was exposed to a wide spectrum of concepts.
 
 I enjoy developing solutions, in the form of software, to real world problems. Technology has crept up into every field that exists and as I find myself learning and working in these different fields to develop new software, I have realized that my interest is in leveraging technology in different fields. I wish to continue exploring new technologies while using my skills to make a positive impact on the world.
 
